@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\vs project\\5.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{247C0B8C-FFF9-45F0-B229-5C514E39AEC1}|UnitTest2\\UnitTest2.vcxproj|D:\\vs project\\5.1\\UnitTest2\\UnitTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{247C0B8C-FFF9-45F0-B229-5C514E39AEC1}|UnitTest2\\UnitTest2.vcxproj|solutionrelative:UnitTest2\\UnitTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD148A30-3C95-4FAC-9B75-4C2EC924D824}|5.1\\5.1.vcxproj|D:\\vs project\\5.1\\5.1\\5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FD148A30-3C95-4FAC-9B75-4C2EC924D824}|5.1\\5.1.vcxproj|solutionrelative:5.1\\5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest2.cpp",
+              "DocumentMoniker": "D:\\vs project\\5.1\\UnitTest2\\UnitTest2.cpp",
+              "RelativeDocumentMoniker": "UnitTest2\\UnitTest2.cpp",
+              "ToolTip": "D:\\vs project\\5.1\\UnitTest2\\UnitTest2.cpp*",
+              "RelativeToolTip": "UnitTest2\\UnitTest2.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T14:34:32.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "5.1.cpp",
               "DocumentMoniker": "D:\\vs project\\5.1\\5.1\\5.1.cpp",
               "RelativeDocumentMoniker": "5.1\\5.1.cpp",
               "ToolTip": "D:\\vs project\\5.1\\5.1\\5.1.cpp",
               "RelativeToolTip": "5.1\\5.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-29T13:39:19.056Z",
               "EditorCaption": ""
